@@ -1,0 +1,46 @@
+html{background: gold;}
+body{
+    background: red;
+    color:black;
+    background-image: url("https://www.google.com/imgres?q=image%20de%20bruno%20mars&imgurl=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1576667634736562177%2FdjUXXBEI_400x400.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fbrunomars&docid=IjQULRnr9pXYZM&tbnid=jmaomZyDqHcTCM&vet=12ahUKEwjfsa-_2LWJAxVRTaQEHbXHJRgQM3oECFkQAA..i&w=399&h=399&hcb=2&ved=2ahUKEwjfsa-_2LWJAxVRTaQEHbXHJRgQM3oECFkQAA");
+    
+    
+
+}
+
+h1{
+color:black;
+font-size: 2em;
+text-underline-position: auto;
+
+
+
+
+}
+
+
+
+
+h2{
+    color:black
+    ;
+}
+
+ol{
+
+    background: white;
+    color: black;
+    padding: 50px;
+   border-radius: 5;
+
+}
+
+img {width: 400px;
+height: 400px;
+margin: auto;}
+
+DIV{text-align: center;}
+
+background-image:{"
+    }
+
