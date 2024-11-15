@@ -81,18 +81,23 @@ text-transform: uppercase;
 /* Titre Bruno Mars */
 h2{
  color:black;
- 
+ font-weight: 100;
+}
+
+h4 {
+  font-size: 1.6vmax;
+  font-weight: 400;
+  margin: 32px 0 16px 0;
+  font-family: impact;
+  text-transform: uppercase;
 }
 
 /* Bloque avec Liste des titres avec liens youtube*/
 ol{
-  display: flex;
-  background: beige;
   color: black;
-  padding: 50px;
-  border-radius:32px;
-  flex-direction: column;
-  align-items: flex-start;
+  padding-left: 24px;
+  font-size: 1.4vmax;
+  margin: 0;
 }
 
 /* Titres de l'album 24K Magic non soulignés */
@@ -107,15 +112,17 @@ img {width: 400px;
 height: 400px;
 margin: auto;}
 
-DIV{text-align: center;}
 
-background-image:{"
-    }
-
+#discographie {
+  display: flex;
+  padding: 64px 32px;
+}
+  #discographie h4 {
+    font-size: 3.2vw;
+    text-align: center;
+}
 
     @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400&display=swap");
-
-
 
 
 footer {
